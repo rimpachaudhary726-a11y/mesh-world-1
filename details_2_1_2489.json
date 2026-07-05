@@ -1,0 +1,10 @@
+[
+{"type": "tree", "position": [2.5, 0, 2.5], "scale": 1.2},
+{"type": "rock", "position": [5.8, 0, 1.2], "scale": 0.8},
+{"type": "lamp", "position": [0.5, 0, 4.8], "scale": 1.0},
+{"type": "building", "position": [4.2, 0, 4.5], "scale": 1.5},
+{"type": "tree", "position": [1.8, 0, 0.8], "scale": 0.9},
+{"type": "rock", "position": [3.1, 0, 3.9], "scale": 1.1},
+{"type": "lamp", "position": [2.2, 0, 0.2], "scale": 0.8},
+{"type": "tree", "position": [4.8, 0, 2.8], "scale": 1.1}
+]
