@@ -1,0 +1,9 @@
+[
+  {"type":"tree","position":[12.3,0,8.7],"scale":1.5},
+  {"type":"tree","position":[35.6,0,22.1],"scale":0.9},
+  {"type":"building","position":[48.0,0,45.5],"scale":2.3},
+  {"type":"rock","position":[20.4,0,30.2],"scale":0.8},
+  {"type":"lamp","position":[55.2,0,10.0],"scale":1.0},
+  {"type":"rock","position":[70.1,0,55.3],"scale":1.2},
+  {"type":"tree","position":[62.5,0,40.7],"scale":1.1}
+]
